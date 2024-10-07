@@ -1,0 +1,23 @@
+└── src
+    ├── app
+    │   ├── app-routing.module.ts
+    │   ├── app.component.html
+    │   ├── app.component.scss
+    │   ├── app.component.spec.ts
+    │   ├── app.component.ts
+    │   ├── app.module.ts
+    │   └── core
+    │       ├── services
+    │       │   └── data.service.ts
+    │       └── models
+    │           └── recipe.model.ts
+    ├── assets
+    │   └── images
+    │       └── default-recipe.jpg
+    ├── environments
+    │   ├── environment.prod.ts
+    │   └── environment.ts
+    ├── index.html
+    ├── main.ts
+    ├── polyfills.ts
+    └── styles.scss
